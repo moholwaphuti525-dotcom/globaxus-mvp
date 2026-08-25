@@ -1,13 +1,13 @@
 ## 📸 MVP Screenshots
 
 ### Landing Page
-![Globaxus Landing Page](./landing-page.png)
+![Globaxus Landing Page](../landing-page.png)
 
 ### Student Profile Creation
-![Student Profile Creation](./student-profile.png)
+![Student Profile Creation](../student-profile.png)
 
 ### Opportunities
-![Opportunities Page](./opportunities.png)
+![Opportunities Page](../opportunities.png)
 
 ### Dashboard
-![Globaxus Dashboard](./dashboard.png)
+![Globaxus Dashboard](../dashboard.png)
