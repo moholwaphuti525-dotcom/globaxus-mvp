@@ -94,7 +94,7 @@ This repository contains the first MVP of the Globaxus platform.
 ## 🔗 Live Demo
 
 **Globaxus MVP:**  
-YOUR-LIVE-GLOBAXUS-LINK-HERE
+https://moholwaphuti525-dotcom.github.io/globaxus-mvp/
 
 ## 🛠️ Technologies
 
