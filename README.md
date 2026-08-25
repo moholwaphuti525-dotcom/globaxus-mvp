@@ -1,0 +1,111 @@
+# Globaxus
+
+**Building a pathway from education to employment and entrepreneurship.**
+
+## 🌍 About Globaxus
+
+Globaxus is a digital platform designed to help students and graduates gain practical experience, collaborate on real-world problems, develop businesses, and connect with opportunities.
+
+The platform focuses on addressing the gap between education and employment, particularly for graduates who struggle to transition from academic qualifications into meaningful work.
+
+## 🎯 The Problem
+
+Many graduates leave university with qualifications but limited practical experience, professional networks, and opportunities to demonstrate their abilities.
+
+Globaxus aims to help change this by creating an environment where students can learn, build, collaborate, solve problems, and gain real-world experience before graduating.
+
+## 💡 The Solution
+
+Globaxus connects:
+
+- 🎓 Students and graduates
+- 💼 Businesses
+- 🏫 Universities
+- 🚀 Student-led companies
+- 💡 Real-world problems and opportunities
+
+Students can build teams, take on roles, work on projects, develop solutions, and gain experience while still studying.
+
+## 🚀 MVP
+
+This repository contains the first MVP of the Globaxus platform.
+
+### Current MVP Features
+
+- Landing page
+- Student profile creation
+- Opportunities page
+- Student dashboard
+- Platform introduction
+- Responsive web interface
+
+## 📸 MVP Screenshots
+
+### Landing Page
+
+![Globaxus Landing Page](landing-page.png)
+
+### Student Profile Creation
+
+![Student Profile Creation](student-profile.png)
+
+### Opportunities
+
+![Opportunities Page](opportunities.png)
+
+### Dashboard
+
+![Globaxus Dashboard](dashboard.png)
+
+## 🛣️ Roadmap
+
+### Phase 1 — MVP
+
+- [x] Landing page
+- [x] Student profile creation
+- [x] Opportunities page
+- [x] Dashboard
+- [x] Online deployment
+
+### Phase 2 — Student Platform
+
+- [ ] Student registration
+- [ ] Skills and career assessment
+- [ ] Project discovery
+- [ ] Team formation
+- [ ] Student profiles
+
+### Phase 3 — Company & Opportunity Platform
+
+- [ ] Create student companies
+- [ ] Recruit team members
+- [ ] Business problem listings
+- [ ] Job and project opportunities
+- [ ] Customer discovery
+
+### Phase 4 — Globaxus Ecosystem
+
+- [ ] University partnerships
+- [ ] Business partnerships
+- [ ] Investor and funding opportunities
+- [ ] Analytics and impact tracking
+- [ ] Revenue-generating student businesses
+
+## 🔗 Live Demo
+
+**Globaxus MVP:**  
+YOUR-LIVE-GLOBAXUS-LINK-HERE
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- GitHub
+- GitHub Pages
+
+## 🎯 Vision
+
+> To create a world where students don't have to wait until graduation to become professionals.
+
+Globaxus aims to help students graduate with more than a qualification — with experience, networks, projects, and opportunities.
