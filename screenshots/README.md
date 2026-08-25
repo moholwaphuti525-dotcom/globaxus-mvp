@@ -1,3 +1,13 @@
-# Globaxus MVP Screenshots
+## 📸 MVP Screenshots
 
-This folder contains screenshots of the Globaxus MVP interface.
+### Landing Page
+![Globaxus Landing Page](landing-page.png)
+
+### Student Profile Creation
+![Student Profile Creation](student-profile.png)
+
+### Opportunities
+![Opportunities Page](opportunities.png)
+
+### Dashboard
+![Globaxus Dashboard](dashboard.png)
